@@ -1,4 +1,4 @@
-# Big Block Three
+# Big Block P2
 
 An adapter for using p2.js with Big Block.
 
